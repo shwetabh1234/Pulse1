@@ -15,7 +15,7 @@
   
   <test name="TestChrome">
   
-  <parameter name="node" value="10.71.130.18:5555/wd/hub"/>
+  <parameter name="node" value="10.71.130.18:5566/wd/hub"/>
   <parameter name="browserName" value="Chrome"/>
   
   <packages>
